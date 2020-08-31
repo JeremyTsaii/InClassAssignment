@@ -1,5 +1,5 @@
 nclude <stdio.h>
 
 int main(int argc, char **argv) {
-    printf("Goodbye, cruel world!\n");
+    printf("Goodbye, not-so-cruel world!\n");
 }
