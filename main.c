@@ -1,5 +1,6 @@
 nclude <stdio.h>
 
 int main(int argc, char **argv) {
-    printf("Hello, world!\n");
+// Just following orders
+    printf("Goodbye, cruel world!\n");
 }
